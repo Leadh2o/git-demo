@@ -3,3 +3,4 @@
 --branch A
 --branch Master
 ------branchAAA
+--fixB
